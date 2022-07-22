@@ -1,0 +1,2 @@
+# nba-trends-eda
+This project is from a class I took during undergrad to apply the basics of Exploratory Data Analysis in Python. I used NBA data to explore some trends over time.
